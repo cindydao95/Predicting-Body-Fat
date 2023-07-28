@@ -1,8 +1,8 @@
-import pickle5 as pickle
+import pickle
 from flask import Flask, request, app, render_template
 import numpy as np
 import pandas as pd
-import os
+
 
 
 #preprocessed_data_path = os.path.join("src","notebook","saved_picklefile","scale_numeric_var.pkl")
