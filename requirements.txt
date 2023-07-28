@@ -1,4 +1,4 @@
-pickle
+pickle5
 Flask
 matplotlib
 pandas
