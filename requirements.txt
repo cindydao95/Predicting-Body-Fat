@@ -1,4 +1,3 @@
-pickle
 Flask
 matplotlib
 pandas
