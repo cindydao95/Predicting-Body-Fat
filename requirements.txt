@@ -1,10 +1,8 @@
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-catboost
-xgboost
-gunicorn
 pickle5
-#-e .
+Flask
+matplotlib
+pandas
+seaborn
+sklearn
+imblearn
+gunicorn
